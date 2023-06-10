@@ -11,7 +11,7 @@ app.get('/', (req, res) => {
   const currentTime = new Date().toLocaleTimeString('id-ID', { timeZone: 'Asia/Jakarta' });
   let greeting = '';
 
-  if (currentTime < '12:00') {
+  if (currentTime < '11:00') {
     greeting = 'Good morning!';
   } else if (currentTime < '18:00') {
     greeting = 'Good afternoon!';
