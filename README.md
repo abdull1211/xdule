@@ -17,3 +17,9 @@ npm install
 ```
 npm run start
 ```
+
+3. link github
+
+```
+git clone https://github.com/abdull1211/xdule12-jarkom-labs.git
+```
