@@ -1,4 +1,4 @@
-# A387-Jarkom-Labs
+# xdule12-Jarkom-Labs
 
 Untuk menjalankan project ini, pastikan `npm` sudah terinstall pada komputer/laptop Anda.
 
